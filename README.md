@@ -77,10 +77,14 @@ In this CTF, your task is to follow a series of clues and use various tools to e
    - **exiftool**: Checks for metadata that may contain hidden messages.
    - **xxd**: Converts the file to a hex dump to search for embedded data.
 
-2. **Steghide**: Use `steghide` to extract hidden data within `image.jpg`:
+2. **Steghide**: Use `steghide` to extract hidden data within `image.jpg` and then cat to get the flag:
 
    ```bash
    steghide extract -sf image.jpg
+   ```
+
+   ```bash
+   cat secret.txt
    ```
 
    -![Screenshot from 2024-10-31 21-28-26](https://github.com/user-attachments/assets/deea1c8f-8093-4c47-8a5a-27e9ab5eb673)
