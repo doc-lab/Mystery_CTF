@@ -15,8 +15,9 @@ In this CTF, your task is to follow a series of clues and use various tools to e
 
 1. After trying several guesses, you find that the **password** is `"securinets"` (based on the CTF theme).
 2. Unlocking the Pastebin file reveals the following information:
-   - A **link to a Google Drive file**: [Drive Link](https://drive.google.com/file/d/1MP6h-GpRFRje12IYaK4Mum6clyUC31mn/view?usp=drivesdk)
-   - An **email address**: `kharrato@gmail.com`
+   - A ![image](https://github.com/user-attachments/assets/dd217a04-ccf7-4d0d-a92c-896a6cdc4745)
+   - An **link to a Google Drive file**: [Drive Link](https://drive.google.com/file/d/1MP6h-GpRFRje12IYaK4Mum6clyUC31mn/view?usp=drivesdk)
+   - Ann **email address**: `kharrato@gmail.com`
 
 ### Step 3: Download the Capture File
 
