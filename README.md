@@ -1,9 +1,3 @@
-To create a clear and enhanced `README.md` file for this Capture the Flag (CTF) challenge, I'll structure the write-up step-by-step, using appropriate headings, code blocks, and formatting to make each step and tool usage easy to follow.
-
-Here’s an improved version of the `README.md`:
-
----
-
 # Mystery CTF Write-Up
 
 ## Challenge Scenario
@@ -86,6 +80,3 @@ In this CTF, your task is to follow a series of clues and use various tools to e
 
 After extracting data from `image.jpg`, you retrieve the **flag** and complete the CTF challenge!
 
---- 
-
-**This write-up covers each essential tool and command used in the CTF, making it easier for participants to follow and understand the solution process. Good luck capturing the flag!**
